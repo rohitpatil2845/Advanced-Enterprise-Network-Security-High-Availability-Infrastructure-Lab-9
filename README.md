@@ -4,6 +4,8 @@ Project Overview
 Designed and implemented a secure enterprise network infrastructure for a multi-department organization using Cisco Packet Tracer. The project focused on network scalability, redundancy, security, high availability, wireless integration, VoIP services, and centralized resource management.
 The network was built using a hierarchical architecture consisting of Core, Distribution, and Access layers. Multiple departments were segmented using VLANs, while routing and security mechanisms ensured efficient and secure communication across the organization.
 
+
+```
 Technologies Implemented
 VLAN Segmentation
 Inter-VLAN Routing
@@ -49,7 +51,7 @@ Network Segmentation
 Access Control Implementation
 Troubleshooting and Validation
 Outcome
-
+```
 Successfully achieved end-to-end connectivity across all departments while maintaining network security, redundancy, and availability. All services including VoIP, Wireless, DHCP, DNS, Email, Web, and DMZ resources were accessible according to organizational security policies.
 
 Tools Used
